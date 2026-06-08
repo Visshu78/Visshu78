@@ -77,7 +77,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Visshu78&theme=tokyonight"/>
 </p>
-![](https://komarev.com/ghpvc/?username=Visshu78&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -114,7 +113,5 @@ I'd love to discuss AI/ML, Computer Vision, NLP, research, or interesting projec
 <div align="center">
 
 **Thanks for visiting my profile! Don't forget to ⭐ my repositories if you find them useful.**
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Visshu78.Visshu78)
 
 </div>
