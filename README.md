@@ -1,20 +1,19 @@
-# 👋 Hi, I'm Vishal (@Visshu78) | AI/ML Engineer
+# 👋 Hi, I'm Vishal (@Visshu78) 
+### AI • Computer Vision • NLP • Human-Computer Interaction
 
-> Passionate about building intelligent systems and exploring the frontiers of Artificial Intelligence & Machine Learning
-
----
-
+> Building AI-powered systems at the intersection of Computer Vision, NLP, and Human-Computer Interaction.
+--- 
 ## 🎯 About Me
 
-- 🤖 Specialized in **Machine Learning** & **Deep Learning**
-- 👀 Interested in **Computer Vision**, **NLP**, **Neural Networks**
-- 📊 Data enthusiast with a passion for extracting insights from complex datasets
-- 🌱 Currently exploring **AI-powered applications** and **Generative AI**
-- 📚 Always learning new techniques and frameworks in AI/ML
-- 💞️ Looking to collaborate on **open-source AI/ML projects** and **tech research**
-- 📫 Reach me at: **vishaldhawal8853@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: Active member of my college's ART club and enjoy writing poetry in Hindi & English!
+* 🎓 B.Tech Computer Science student at IIIT Kottayam, also done a Minor in CSE from IIT Mandi
+* 🔭 Interested in building intelligent systems that combine AI with real-world interaction
+* 🤖 Working across Computer Vision, NLP, and Human-Computer Interaction
+* 🚀 Passionate about turning ideas into practical products and research-driven projects
+* 🌱 Currently exploring Generative AI, Vision Transformers, and Large Language Models
+* ✍️ Outside tech, I enjoy writing poetry and experimenting with storytelling
+* 🤝 Open to collaborating on AI projects, research, and open-source initiatives
+* 📫 Reach me at: **[vishaldhawal8853@gmail.com](mailto:vishaldhawal8853@gmail.com)**
+
 
 ---
 
@@ -34,10 +33,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 
 ### **Specializations**
-- 🧠 **Deep Learning:** CNN, RNN, LSTM, Transformers, GANs
+- 🧠 **Deep Learning:** CNN, LSTM, Transformers,
 - 📝 **Computer Vision:** Image Classification, Object Detection, Image Segmentation
 - 🗣️ **NLP:** Text Classification, Sentiment Analysis
-- 📈 **Predictive Analytics:** Regression, Classification, Time Series Forecasting
+- 📈 **Predictive Analytics:** Regression, Classification
 - 🤖 **LLMs & Generative AI:** Fine-tuning, Prompt Engineering, RAG
 
 ### **Tools & Platforms**
@@ -66,11 +65,6 @@
 **Tech:** Python, Speech Recognition, Text-to-Speech, AI APIs
 **Highlights:** Voice command execution, natural language interaction, productivity automation
 
-### 🔹 [Build My Own Git](https://github.com/Visshu78)
-**Description:** A custom implementation of Git fundamentals built from scratch to understand version control internals.
-**Tech:** Python, File Systems, CLI Development
-**Highlights:** Repository initialization, commits, object storage, Git internals
-
 ---
 
 ## 📊 GitHub Statistics
@@ -83,24 +77,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Visshu78&theme=tokyonight"/>
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Visshu78&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📈 Areas of Expertise
-
-```
-Machine Learning     ████████████░░░ 85%
-Deep Learning        ████████████░░░ 85%
-Computer Vision      ███████████░░░░ 80%
-Data Analysis        ███████████░░░░ 80%
-NLP                  ██████████░░░░░ 75%
-Python Programming   ████████████░░░ 85%
-Statistics & Math    ███████████░░░░ 80%
-```
+![](https://komarev.com/ghpvc/?username=Visshu78&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
+
 
 ## 📚 Currently Learning
 
@@ -125,14 +105,11 @@ I'm interested in working on:
 
 ## 💬 Let's Connect
 
-I'd love to discuss AI/ML, collaborate on projects, or help with your ML journey!
+I'd love to discuss AI/ML, Computer Vision, NLP, research, or interesting project ideas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dhawal-b69163327/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](http://medium.com/@visshu78)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishaldhawal8853@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
 
 <div align="center">
 
