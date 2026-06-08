@@ -36,7 +36,7 @@
 ### **Specializations**
 - 🧠 **Deep Learning:** CNN, RNN, LSTM, Transformers, GANs
 - 📝 **Computer Vision:** Image Classification, Object Detection, Image Segmentation
-- 🗣️ **NLP:** Text Classification, Sentiment Analysis, Named Entity Recognition
+- 🗣️ **NLP:** Text Classification, Sentiment Analysis
 - 📈 **Predictive Analytics:** Regression, Classification, Time Series Forecasting
 - 🤖 **LLMs & Generative AI:** Fine-tuning, Prompt Engineering, RAG
 
@@ -51,29 +51,38 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Computer Vision Project](https://github.com/Visshu78/project-link)
-**Description:** Deep learning models for image classification and object detection  
-**Tech:** Python, TensorFlow, OpenCV, CNN  
-**Performance:** 94%+ accuracy  
+### 🔹 [VisionControl](https://github.com/Visshu78/VisionControl)
+**Description:** AI-powered hands-free control system that enables mouse navigation, volume adjustment, and brightness control using computer vision and hand gesture recognition.
+**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI
+**Highlights:** Real-time gesture tracking, touchless system control, multi-feature integration
 
-### 🔹 [NLP Project](https://github.com/Visshu78/project-link)
-**Description:** Natural Language Processing solutions for text analysis  
-**Tech:** Python, PyTorch, Transformers, Hugging Face  
-**Performance:** State-of-the-art results  
+### 🔹 [IPC Predictor](https://github.com/Visshu78/IPC_predictor)
+**Description:** NLP-based legal assistant that analyzes crime descriptions and predicts applicable Indian Penal Code (IPC) sections along with legal classifications.
+**Tech:** Python, Machine Learning, NLP, Scikit-learn
+**Highlights:** Automated IPC prediction, legal text processing, crime classification
 
-### 🔹 [Predictive Analytics](https://github.com/Visshu78/project-link)
-**Description:** Machine learning models for data prediction and analysis  
-**Tech:** Python, Scikit-learn, Pandas, Matplotlib  
+### 🔹 [Aether Voice](https://github.com/Visshu78/Aether-Voice)
+**Description:** Voice-controlled AI assistant designed to execute commands, automate workflows, and provide a seamless conversational interface.
+**Tech:** Python, Speech Recognition, Text-to-Speech, AI APIs
+**Highlights:** Voice command execution, natural language interaction, productivity automation
 
-### 🔹 [Deep Learning Experiments](https://github.com/Visshu78/project-link)
-**Description:** Exploring cutting-edge deep learning architectures  
-**Tech:** Python, Keras, TensorFlow, PyTorch  
+### 🔹 [Build My Own Git](https://github.com/Visshu78)
+**Description:** A custom implementation of Git fundamentals built from scratch to understand version control internals.
+**Tech:** Python, File Systems, CLI Development
+**Highlights:** Repository initialization, commits, object storage, Git internals
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Visshu78&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Visshu78&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Visshu78&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Visshu78&theme=tokyonight"/>
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Visshu78&layout=compact&theme=radical&hide_border=true)
 
